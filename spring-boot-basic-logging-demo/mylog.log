@@ -1,0 +1,35 @@
+2022-11-17 11:57:53.545  INFO 24771 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-11-17 11:57:53.549  INFO 24771 --- [RMI TCP Connection(5)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-11-17 11:57:54,648[INFO] Starting SpringBootBasicLoggingDemoApplication using Java 11.0.16.1 on BLR1-LHP-N84471 with PID 25176 (/home/kiran/Desktop/Microservices/spring-boot-basic-logging-demo/target/classes started by kiran in /home/kiran/Desktop/Microservices/spring-boot-basic-logging-demo)
+2022-11-17 11:57:54,649[INFO] No active profile set, falling back to 1 default profile: "default"
+2022-11-17 11:57:54,683[INFO] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-17 11:57:54,683[INFO] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-17 11:57:55,182[INFO] Tomcat initialized with port(s): 8080 (http)
+2022-11-17 11:57:55,190[INFO] Starting service [Tomcat]
+2022-11-17 11:57:55,190[INFO] Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-17 11:57:55,220[INFO] Initializing Spring embedded WebApplicationContext
+2022-11-17 11:57:55,220[INFO] Root WebApplicationContext: initialization completed in 536 ms
+2022-11-17 11:57:55,424[INFO] LiveReload server is running on port 35729
+2022-11-17 11:57:55,443[INFO] Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-17 11:57:55,451[INFO] Started SpringBootBasicLoggingDemoApplication in 1.019 seconds (JVM running for 1.412)
+2022-11-17 11:58:03,924[INFO] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-17 11:58:03,925[INFO] Initializing Servlet 'dispatcherServlet'
+2022-11-17 11:58:03,925[INFO] Completed initialization in 0 ms
+2022-11-17 11:58:03,939[ERROR] Error Info
+2022-11-17 11:58:03,939[INFO] Info
+2022-11-17 11:58:03,939[WARN] Warning
+2022-11-17 11:58:04,191[ERROR] Error Info
+2022-11-17 11:58:04,192[INFO] Info
+2022-11-17 11:58:04,192[WARN] Warning
+2022-11-17 11:58:04,386[ERROR] Error Info
+2022-11-17 11:58:04,387[INFO] Info
+2022-11-17 11:58:04,387[WARN] Warning
+2022-11-17 11:58:04,554[ERROR] Error Info
+2022-11-17 11:58:04,554[INFO] Info
+2022-11-17 11:58:04,554[WARN] Warning
+2022-11-17 11:58:04,721[ERROR] Error Info
+2022-11-17 11:58:04,722[INFO] Info
+2022-11-17 11:58:04,722[WARN] Warning
+2022-11-17 11:59:53,686[INFO] Application shutdown requested.
+2022-11-17 11:59:53,691[INFO] Stopping service [Tomcat]
+2022-11-17 11:59:53,692[INFO] Destroying Spring FrameworkServlet 'dispatcherServlet'
